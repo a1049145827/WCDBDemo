@@ -1,0 +1,11 @@
+# Visual Studio
+/vsproj/*
+!/vsproj/*.sln
+!/vsproj/*.vcxproj*
+
+# Android Studio, Gradle
+/local.properties
+/build
+/wcdb/build
+/captures
+/wcdb/local.gradle
